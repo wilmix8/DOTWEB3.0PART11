@@ -81,17 +81,17 @@ It is the best Programming language which interact with JWEB.
 
 13) WHTML -> Used with JWEB and HTML
 
-16) ADollar -> It is used in Advanced Business and A$ is used to interact with WEB.
+14) ADollar -> It is used in Advanced Business and A$ is used to interact with WEB.
 
-17) UWEB => it is an american and U.k Programming Language based on WEB used in American and U.k sector.
+15) UWEB => it is an american and U.k Programming Language based on WEB used in American and U.k sector.
 
-18) BHTML and CSP => it is an Banking Programming Language invented in WEB.
+16) BHTML and CSP => it is an Banking Programming Language invented in WEB.
 
-19) JWebREmote => it is an one minute Automation JWEB Advanced P.L for creating remoteserver.
+17) JWebREmote => it is an one minute Automation JWEB Advanced P.L for creating remoteserver.
 
-20) JWebJSLASH => it is an one minute Automation JWEB Advanced P.L
+18) JWebJSLASH => it is an one minute Automation JWEB Advanced P.L
 
-21) 
+19) 
   JWEB2  Advanced Business
 =================================
 JWEB2  is focused  on  interaction  with JSWORD.
@@ -99,7 +99,7 @@ JWEB2  is focused  on  interaction  with JSWORD.
 Note: Here  we use  only   JDollar.exe  and JDollar .dll 
 
 
-22)  JWEB  with  NSTAR
+20)  JWEB  with  NSTAR
 =======================
 
 NSTAR -J$  is  also  a part  of  JDollarPArt2
