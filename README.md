@@ -1,8 +1,8 @@
-# JWEB11.0
+# CSHARP3.0
 ==========
 
-JWEB11.0   is  about   JDollarPart2  with  Dotnet  and  C/C++ with   NSTAR  is  invented  by  wilmix  jemin  j at year  2017.
 
+CSHARP3.0  Programming Language  is  about     JDollarPart2  with  Dotnet  and  C/C++ with   NSTAR  is  invented  in  J$ and  .Net by  wilmix  jemin.
 
 JWEB11.0
 =========
